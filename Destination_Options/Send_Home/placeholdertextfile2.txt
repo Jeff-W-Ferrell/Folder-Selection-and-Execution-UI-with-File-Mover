@@ -1,0 +1,1 @@
+This is another placeholder file, created in order to upload an "empty destination" folder to GitHub.
